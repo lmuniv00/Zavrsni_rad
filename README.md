@@ -11,7 +11,9 @@ C/C++ -> General -> Additional Include Directories -> Edit -> New Line -> C:\[Va
 C/C++ -> General -> Additional Include Directories -> Edit -> New Line -> C:\[Vaša putanja]\Zavrsni_rad\Zavrsni_rad\SDL2\include
 
 Linker -> General -> Additional Library Directories -> Edit -> New Line -> C:\[Vaša putanja]\Zavrsni_rad\Zavrsni_rad\SDL2_Image\lib\x86
+
 Linker -> General -> Additional Library Directories -> Edit -> New Line -> C:\[Vaša putanja]\Zavrsni_rad\Zavrsni_rad\SDL2\lib\x86
+
 Linker -> Input -> Additional Dependencies -> Edit -> (Dodati datoteke) SDL2_image.lib, SDL2.lib, SDL2main.lib
 
 ## Kontrola igrača
